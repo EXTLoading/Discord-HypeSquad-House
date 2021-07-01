@@ -1,0 +1,13 @@
+C:\Users\Nathan\source\repos\Discord HypeSquad House\bin\Debug\Discord HypeSquad House.exe.config
+C:\Users\Nathan\source\repos\Discord HypeSquad House\bin\Debug\Discord HypeSquad House.exe
+C:\Users\Nathan\source\repos\Discord HypeSquad House\bin\Debug\Discord HypeSquad House.pdb
+C:\Users\Nathan\source\repos\Discord HypeSquad House\obj\Debug\Discord HypeSquad House.csprojAssemblyReference.cache
+C:\Users\Nathan\source\repos\Discord HypeSquad House\obj\Debug\Discord_HypeSquad_House.Form1.resources
+C:\Users\Nathan\source\repos\Discord HypeSquad House\obj\Debug\Discord_HypeSquad_House.Properties.Resources.resources
+C:\Users\Nathan\source\repos\Discord HypeSquad House\obj\Debug\Discord HypeSquad House.csproj.GenerateResource.cache
+C:\Users\Nathan\source\repos\Discord HypeSquad House\obj\Debug\Discord HypeSquad House.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\Discord HypeSquad House\obj\Debug\Discord HypeSquad House.exe
+C:\Users\Nathan\source\repos\Discord HypeSquad House\obj\Debug\Discord HypeSquad House.pdb
+C:\Users\Nathan\source\repos\Discord HypeSquad House\bin\Debug\RestSharp.dll
+C:\Users\Nathan\source\repos\Discord HypeSquad House\bin\Debug\RestSharp.xml
+C:\Users\Nathan\source\repos\Discord HypeSquad House\obj\Debug\Discord HypeSquad House.csproj.CopyComplete
